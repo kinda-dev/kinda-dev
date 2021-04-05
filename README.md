@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**kinda-dev/kinda-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm  an ex hospitality worker that in 2018 followed his dreams and moved from Italy to the US to proudly become a Software Engineer.
 During my studies I discovered a big passion for Javascript, React and Redux, passion confirmed during my hands-on-code sessions. My natural non-biased critical thinking and get-it-done attitude completed with the human-centered experience acquired through my previous jobs makes me a perfect fit for the Tech Industry.
 
