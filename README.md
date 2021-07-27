@@ -1,6 +1,7 @@
-### Ciao, io sono Fabio, 👋
+### Ciao, I am Fabio, 👋
 
-ex entrepreneur in the hospitality industry that in 2018 followed his dreams and moved from Italy to the Silicon Valley to proudly become a Software Engineer. Extremely curious by nature I've found in software developing what excites me: there is always something new to discover, something new to create. I love to learn and to know, as much as I can, in everything I do.
+ex hospitality entrepreneur, world traveler from Italy based in California and I love software development.
+Extremely curious by nature I've found in software developing what excites me: there is always something new to discover, something new to create. I love to learn and to know, as much as I can, in everything I do.
 
 During my studies I discovered a big passion for Javascript, React and Redux, passion confirmed during my hands-on-code sessions. My natural non-biased critical thinking and get-it-done attitude completed with the human-centered experience acquired through my previous jobs makes me a perfect fit for the Tech Industry.
 
